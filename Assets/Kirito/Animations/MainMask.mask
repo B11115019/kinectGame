@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MainMask
+  m_Mask: 01000000010000000100000001000000010000000000000000000000000000000000000001000000010000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: baju
+    m_Weight: 1
+  - m_Path: celana
+    m_Weight: 1
+  - m_Path: kepala
+    m_Weight: 1
+  - m_Path: metarig
+    m_Weight: 1
+  - m_Path: metarig/leg.L.constraint
+    m_Weight: 1
+  - m_Path: metarig/leg.L.IK
+    m_Weight: 1
+  - m_Path: metarig/leg.R.constraint
+    m_Weight: 1
+  - m_Path: metarig/leg.R.IK
+    m_Weight: 1
+  - m_Path: metarig/pelvis
+    m_Weight: 1
+  - m_Path: metarig/pelvis/pelvis.L
+    m_Weight: 1
+  - m_Path: metarig/pelvis/pelvis.L/cloak.B.L.1
+    m_Weight: 1
+  - m_Path: metarig/pelvis/pelvis.L/cloak.B.L.1/cloak.B.L.2
+    m_Weight: 1
+  - m_Path: metarig/pelvis/pelvis.L/cloak.F.L.1
+    m_Weight: 1
+  - m_Path: metarig/pelvis/pelvis.L/cloak.F.L.1/cloak.F.L.2
+    m_Weight: 1
+  - m_Path: metarig/pelvis/pelvis.L/cloak.M.L.1
+    m_Weight: 1
+  - m_Path: metarig/pelvis/pelvis.L/cloak.M.L.1/cloak.M.L.2
+    m_Weight: 1
+  - m_Path: metarig/pelvis/pelvis.R
+    m_Weight: 1
+  - m_Path: metarig/pelvis/pelvis.R/cloak.B.R.1
+    m_Weight: 1
+  - m_Path: metarig/pelvis/pelvis.R/cloak.B.R.1/cloak.B.R.2
+    m_Weight: 1
+  - m_Path: metarig/pelvis/pelvis.R/cloak.F.R.1
+    m_Weight: 1
+  - m_Path: metarig/pelvis/pelvis.R/cloak.F.R.1/cloak.F.R.2
+    m_Weight: 1
+  - m_Path: metarig/pelvis/pelvis.R/cloak.M.R.1
+    m_Weight: 1
+  - m_Path: metarig/pelvis/pelvis.R/cloak.M.R.1/cloak.M.R.2
+    m_Weight: 1
+  - m_Path: metarig/pelvis/thigh.L
+    m_Weight: 1
+  - m_Path: metarig/pelvis/thigh.L/shin.L
+    m_Weight: 1
+  - m_Path: metarig/pelvis/thigh.L/shin.L/foot.L
+    m_Weight: 1
+  - m_Path: metarig/pelvis/thigh.L/shin.L/foot.L/toe.L
+    m_Weight: 1
+  - m_Path: metarig/pelvis/thigh.R
+    m_Weight: 1
+  - m_Path: metarig/pelvis/thigh.R/shin.R
+    m_Weight: 1
+  - m_Path: metarig/pelvis/thigh.R/shin.R/foot.R
+    m_Weight: 1
+  - m_Path: metarig/pelvis/thigh.R/shin.R/foot.R/toe.R
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/back.weapon_slot.R
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/breast.L
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/breast.R
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.L
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.L/upper_arm.L
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.L/upper_arm.L/forearm.L
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.L/upper_arm.L/forearm.L/hand.L
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/middle.L.1
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/middle.L.1/middle.L.2
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/middle.L.1/middle.L.2/middle.L.3
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/pinky.L.1
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/pinky.L.1/pinky.L.2
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/pinky.L.1/pinky.L.2/pinky.L.3
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/pointer.L.1
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/pointer.L.1/pointer.L.2
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/pointer.L.1/pointer.L.2/pointer.L.3
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/ring.L.1
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/ring.L.1/ring.L.2
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/ring.L.1/ring.L.2/ring.L.3
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/thumb.L.1
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/thumb.L.1/thumb.L.2
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.L/upper_arm.L/forearm.L/hand.L/thumb.L.1/thumb.L.2/thumb.L.3
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.R
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.R/upper_arm.R
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.R/upper_arm.R/forearm.R
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.R/upper_arm.R/forearm.R/hand.R
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/hand.weapon_slot.R
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/middle.R.1
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/middle.R.1/middle.R.2
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/middle.R.1/middle.R.2/middle.R.3
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/pinky.R.1
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/pinky.R.1/pinky.R.2
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/pinky.R.1/pinky.R.2/pinky.R.3
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/pointer.R.1
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/pointer.R.1/pointer.R.2
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/pointer.R.1/pointer.R.2/pointer.R.3
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/ring.R.1
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/ring.R.1/ring.R.2
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/ring.R.1/ring.R.2/ring.R.3
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/thumb.R.1
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/thumb.R.1/thumb.R.2
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/shoulder.R/upper_arm.R/forearm.R/hand.R/thumb.R.1/thumb.R.2/thumb.R.3
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/throat
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/throat/head
+    m_Weight: 1
+  - m_Path: metarig/pelvis/waist/belly/chest/throat/head.IK
+    m_Weight: 1
+  - m_Path: rambut
+    m_Weight: 1
+  - m_Path: sepatu
+    m_Weight: 1
+  - m_Path: sword_b_back
+    m_Weight: 1
+  - m_Path: sword_b_hand
+    m_Weight: 1
+  - m_Path: tangan
+    m_Weight: 1

@@ -1,0 +1,4 @@
+repository "kinect_game@ian523411756@cloud"
+  path "/"
+    br "/main"
+    co "/main"

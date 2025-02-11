@@ -1,0 +1,1356 @@
+fileFormatVersion: 2
+guid: 01dca283ac593564ab173ce4f166e6ca
+importerOverride:
+  nativeImporterType: 2089858483
+  scriptedImporterType:
+    serializedVersion: 2
+    Hash: b10b55a1aa6a1aa32521bc0cab59632e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 1
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 1
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: HUD_Sharp_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 1
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 960
+      height: 182
+    spriteID: 55dd5a8ed448ef24281e0e4a1787b435
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: 99%
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 972
+      y: 58
+      width: 30
+      height: 13
+    spriteID: ee47c9e4c6d199248ba7abc895f68b12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 972, y: 58}
+    spritePosition: {x: 469, y: 18}
+  - name: 100%
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 972
+      y: 37
+      width: 39
+      height: 13
+    spriteID: 78764fbdbfafd614ea2adc63fdd1b5ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 972, y: 37}
+    spritePosition: {x: 465, y: 152}
+  - name: 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 972
+      y: 4
+      width: 33
+      height: 25
+    spriteID: 0d7f1bcd25e3d6944a93d3874e93647f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 972, y: 4}
+    spritePosition: {x: 465, y: 76}
+  - name: Stamina_pip_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1002
+      y: 79
+      width: 18
+      height: 13
+    spriteID: 79a97050d20a3d34c90451642252a1e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1000, y: 78}
+    spritePosition: {x: 648, y: 42}
+  - name: Stamina_pip_bak_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 972
+      y: 79
+      width: 22
+      height: 15
+    spriteID: e64588d613e489d4ba9c0733dcddab3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 970, y: 78}
+    spritePosition: {x: 646, y: 41}
+  - name: Stamina_pip_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1002
+      y: 102
+      width: 18
+      height: 13
+    spriteID: 51ddb7188125f5f4bbba3cbdcea20f62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1000, y: 101}
+    spritePosition: {x: 634, y: 42}
+  - name: Stamina_pip_bak_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 972
+      y: 102
+      width: 22
+      height: 15
+    spriteID: 5343d9e015fc29f4fae7cfa1dc171ef0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 970, y: 101}
+    spritePosition: {x: 632, y: 41}
+  - name: Stamina_pip_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1002
+      y: 125
+      width: 18
+      height: 13
+    spriteID: 01f6b75aba759b844a1a898e2d7fabba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1000, y: 124}
+    spritePosition: {x: 620, y: 42}
+  - name: Stamina_pip_bak_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 972
+      y: 125
+      width: 22
+      height: 15
+    spriteID: 5862a2611ffebbb4d87eabc93ea7c006
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 970, y: 124}
+    spritePosition: {x: 618, y: 41}
+  - name: Stamina_pip_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1002
+      y: 148
+      width: 18
+      height: 13
+    spriteID: 2e61d9d625fc0ec49a2a55b202904dcb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1000, y: 147}
+    spritePosition: {x: 606, y: 42}
+  - name: Stamina_pip_bak_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 972
+      y: 148
+      width: 22
+      height: 15
+    spriteID: 3115267cf71c93a4c8f872c074b209ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 970, y: 147}
+    spritePosition: {x: 604, y: 41}
+  - name: Stamina_pip_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1002
+      y: 171
+      width: 18
+      height: 13
+    spriteID: a37afa1d606113e41b7a138261b7ee3f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1000, y: 170}
+    spritePosition: {x: 592, y: 42}
+  - name: Stamina_pip_bak_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 972
+      y: 171
+      width: 22
+      height: 15
+    spriteID: 2d1e39eb46a98e447a1b3bcc359bd29f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 970, y: 170}
+    spritePosition: {x: 590, y: 41}
+  - name: Stamina_pip_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1002
+      y: 194
+      width: 18
+      height: 13
+    spriteID: ff54f014d930018469cea1da88237dec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1000, y: 193}
+    spritePosition: {x: 578, y: 42}
+  - name: Stamina_pip_bak_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 972
+      y: 194
+      width: 22
+      height: 15
+    spriteID: bc2496df96d890348b9d17101838678c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 970, y: 193}
+    spritePosition: {x: 576, y: 41}
+  - name: Stamina_pip_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1002
+      y: 217
+      width: 18
+      height: 13
+    spriteID: 2dfe07f6fe8e12a4286b6c0fca6446ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1000, y: 216}
+    spritePosition: {x: 564, y: 42}
+  - name: Stamina_pip_bak_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 972
+      y: 217
+      width: 22
+      height: 15
+    spriteID: f9f203bc318ed824a85646c05963b674
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 970, y: 216}
+    spritePosition: {x: 562, y: 41}
+  - name: Stamina_pip_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1002
+      y: 240
+      width: 18
+      height: 13
+    spriteID: 3fd673835f84aa54b89ee6b04ba545ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1000, y: 239}
+    spritePosition: {x: 550, y: 42}
+  - name: Stamina_pip_bak_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 972
+      y: 240
+      width: 22
+      height: 15
+    spriteID: bd175a75bb7f2fe4c907f189a9adafa2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 970, y: 239}
+    spritePosition: {x: 548, y: 41}
+  - name: Stamina_pip_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1002
+      y: 263
+      width: 18
+      height: 13
+    spriteID: 0cc6219bcfbf2a2448fb7c51398b7bbb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1000, y: 262}
+    spritePosition: {x: 536, y: 42}
+  - name: Stamina_pip_bak_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 972
+      y: 263
+      width: 22
+      height: 15
+    spriteID: 1587948520a9cce4dba08d279c0bd98b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 970, y: 262}
+    spritePosition: {x: 534, y: 41}
+  - name: Stamina_pip_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 972
+      y: 309
+      width: 18
+      height: 13
+    spriteID: 2b7a0ae63c38361418d66802cb19b930
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 970, y: 308}
+    spritePosition: {x: 522, y: 42}
+  - name: Stamina_pip_bak_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 972
+      y: 286
+      width: 22
+      height: 15
+    spriteID: 5af272ba05e27d34e884fbe6482f938e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 970, y: 285}
+    spritePosition: {x: 520, y: 41}
+  - name: mid_mid
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 540
+      width: 81
+      height: 81
+    spriteID: 63a820bae5a4745409059e2ece61ef3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 539}
+    spritePosition: {x: 440, y: 51}
+  - name: hp_right
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 444
+      width: 256
+      height: 57
+    spriteID: 79777d2d5c7706b45aeb8a75dfef1fc9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 444}
+    spritePosition: {x: 480, y: 87}
+  - name: hp_left
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 444
+      width: 256
+      height: 57
+    spriteID: 918f17409ecc6a9498b60c5049125ae8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 444}
+    spritePosition: {x: 224, y: 87}
+  - name: mp_right
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 553
+      y: 384
+      width: 232
+      height: 38
+    spriteID: 0ed3b8cb4d14d34498661a6c53cbe92c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 553, y: 384}
+    spritePosition: {x: 480, y: 42}
+  - name: mp_left
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 444
+      width: 232
+      height: 38
+    spriteID: 0246fe3b9ba3b7d4a8f39c52dc04e64a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 444}
+    spritePosition: {x: 248, y: 42}
+  - name: mp_mid_bak
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 540
+      width: 108
+      height: 111
+    spriteID: 022d215c9632f204ca509da403b4f66e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 540}
+    spritePosition: {x: 426, y: 37}
+  - name: hp_bak
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 509
+      width: 525
+      height: 23
+    spriteID: 272331005368b904eb8f8754a213b7b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 3, y: 508}
+    spritePosition: {x: 217, y: 84}
+  - name: mp_bak
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 537
+      y: 509
+      width: 477
+      height: 23
+    spriteID: 04e738e32d5118746861246f2c33da8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 535, y: 508}
+    spritePosition: {x: 242, y: 59}
+  - name: Bar shadows
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 384
+      width: 541
+      height: 52
+    spriteID: 76705db61b6d08645b5fae130fa65664
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 2, y: 383}
+    spritePosition: {x: 210, y: 57}
+  - name: BGBlack
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 960
+      height: 182
+    spriteID: bb47fcf25e5c43c44a804faf16b5ee8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
+  - name: BGWhite
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 194
+      width: 960
+      height: 182
+    spriteID: 6b8f450b553d1ad45b7f0a5ad1c41526
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 194}
+    spritePosition: {x: 0, y: 0}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Backup
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 3d54a3da26154c14ba4258e13c3eec26
+    layerID: 57
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Other
+    spriteName: Other
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d6b6e96f64b85e5439d598010c25d5a8
+    layerID: 60
+    mosaicPosition: {x: 532, y: 475}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Other_back
+    spriteName: Other_back
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9e2bcca1f02b98842be6dff81ac4edc5
+    layerID: 59
+    mosaicPosition: {x: 537, y: 509}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Demo Elements
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 6beb105956db6ee48a4c6e5c92b0b6f9
+    layerID: 43
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: 99%
+    spriteName: 99%
+    isGroup: 0
+    parentIndex: 3
+    spriteID: ee47c9e4c6d199248ba7abc895f68b12
+    layerID: 47
+    mosaicPosition: {x: 972, y: 58}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 100%
+    spriteName: 100%
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 78764fbdbfafd614ea2adc63fdd1b5ef
+    layerID: 46
+    mosaicPosition: {x: 972, y: 37}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: 10
+    spriteName: 10
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 0d7f1bcd25e3d6944a93d3874e93647f
+    layerID: 45
+    mosaicPosition: {x: 972, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stamina
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: f6d781e113734a9408a2a376b64fe836
+    layerID: 20
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Stamina_pip_10
+    spriteName: Stamina_pip_10
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 79a97050d20a3d34c90451642252a1e1
+    layerID: 41
+    mosaicPosition: {x: 1002, y: 79}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stamina_pip_bak_10
+    spriteName: Stamina_pip_bak_10
+    isGroup: 0
+    parentIndex: 7
+    spriteID: e64588d613e489d4ba9c0733dcddab3b
+    layerID: 40
+    mosaicPosition: {x: 972, y: 79}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stamina_pip_9
+    spriteName: Stamina_pip_9
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 51ddb7188125f5f4bbba3cbdcea20f62
+    layerID: 39
+    mosaicPosition: {x: 1002, y: 102}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stamina_pip_bak_9
+    spriteName: Stamina_pip_bak_9
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 5343d9e015fc29f4fae7cfa1dc171ef0
+    layerID: 38
+    mosaicPosition: {x: 972, y: 102}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stamina_pip_8
+    spriteName: Stamina_pip_8
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 01f6b75aba759b844a1a898e2d7fabba
+    layerID: 37
+    mosaicPosition: {x: 1002, y: 125}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stamina_pip_bak_8
+    spriteName: Stamina_pip_bak_8
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 5862a2611ffebbb4d87eabc93ea7c006
+    layerID: 36
+    mosaicPosition: {x: 972, y: 125}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stamina_pip_7
+    spriteName: Stamina_pip_7
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 2e61d9d625fc0ec49a2a55b202904dcb
+    layerID: 35
+    mosaicPosition: {x: 1002, y: 148}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stamina_pip_bak_7
+    spriteName: Stamina_pip_bak_7
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 3115267cf71c93a4c8f872c074b209ec
+    layerID: 34
+    mosaicPosition: {x: 972, y: 148}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stamina_pip_6
+    spriteName: Stamina_pip_6
+    isGroup: 0
+    parentIndex: 7
+    spriteID: a37afa1d606113e41b7a138261b7ee3f
+    layerID: 33
+    mosaicPosition: {x: 1002, y: 171}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stamina_pip_bak_6
+    spriteName: Stamina_pip_bak_6
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 2d1e39eb46a98e447a1b3bcc359bd29f
+    layerID: 32
+    mosaicPosition: {x: 972, y: 171}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stamina_pip_5
+    spriteName: Stamina_pip_5
+    isGroup: 0
+    parentIndex: 7
+    spriteID: ff54f014d930018469cea1da88237dec
+    layerID: 31
+    mosaicPosition: {x: 1002, y: 194}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stamina_pip_bak_5
+    spriteName: Stamina_pip_bak_5
+    isGroup: 0
+    parentIndex: 7
+    spriteID: bc2496df96d890348b9d17101838678c
+    layerID: 30
+    mosaicPosition: {x: 972, y: 194}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stamina_pip_4
+    spriteName: Stamina_pip_4
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 2dfe07f6fe8e12a4286b6c0fca6446ad
+    layerID: 29
+    mosaicPosition: {x: 1002, y: 217}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stamina_pip_bak_4
+    spriteName: Stamina_pip_bak_4
+    isGroup: 0
+    parentIndex: 7
+    spriteID: f9f203bc318ed824a85646c05963b674
+    layerID: 28
+    mosaicPosition: {x: 972, y: 217}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stamina_pip_3
+    spriteName: Stamina_pip_3
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 3fd673835f84aa54b89ee6b04ba545ee
+    layerID: 27
+    mosaicPosition: {x: 1002, y: 240}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stamina_pip_bak_3
+    spriteName: Stamina_pip_bak_3
+    isGroup: 0
+    parentIndex: 7
+    spriteID: bd175a75bb7f2fe4c907f189a9adafa2
+    layerID: 26
+    mosaicPosition: {x: 972, y: 240}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stamina_pip_2
+    spriteName: Stamina_pip_2
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 0cc6219bcfbf2a2448fb7c51398b7bbb
+    layerID: 25
+    mosaicPosition: {x: 1002, y: 263}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stamina_pip_bak_2
+    spriteName: Stamina_pip_bak_2
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 1587948520a9cce4dba08d279c0bd98b
+    layerID: 24
+    mosaicPosition: {x: 972, y: 263}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stamina_pip_1
+    spriteName: Stamina_pip_1
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 2b7a0ae63c38361418d66802cb19b930
+    layerID: 22
+    mosaicPosition: {x: 972, y: 309}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Stamina_pip_bak_1
+    spriteName: Stamina_pip_bak_1
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 5af272ba05e27d34e884fbe6482f938e
+    layerID: 23
+    mosaicPosition: {x: 972, y: 286}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: HP & MP
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 125de35427c9c5a45aa207d443b89025
+    layerID: 18
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: mid_mid
+    spriteName: mid_mid
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 63a820bae5a4745409059e2ece61ef3a
+    layerID: 14
+    mosaicPosition: {x: 120, y: 540}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: hp_right
+    spriteName: hp_right
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 79777d2d5c7706b45aeb8a75dfef1fc9
+    layerID: 56
+    mosaicPosition: {x: 4, y: 444}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: hp_left
+    spriteName: hp_left
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 918f17409ecc6a9498b60c5049125ae8
+    layerID: 15
+    mosaicPosition: {x: 268, y: 444}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: mp_right
+    spriteName: mp_right
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 0ed3b8cb4d14d34498661a6c53cbe92c
+    layerID: 65
+    mosaicPosition: {x: 553, y: 384}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: mp_left
+    spriteName: mp_left
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 0246fe3b9ba3b7d4a8f39c52dc04e64a
+    layerID: 16
+    mosaicPosition: {x: 532, y: 444}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: mp_mid_bak
+    spriteName: mp_mid_bak
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 022d215c9632f204ca509da403b4f66e
+    layerID: 11
+    mosaicPosition: {x: 4, y: 540}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: hp_bak
+    spriteName: hp_bak
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 272331005368b904eb8f8754a213b7b8
+    layerID: 9
+    mosaicPosition: {x: 4, y: 509}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: mp_bak
+    spriteName: mp_bak
+    isGroup: 0
+    parentIndex: 28
+    spriteID: 04e738e32d5118746861246f2c33da8c
+    layerID: 10
+    mosaicPosition: {x: 537, y: 509}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Shadow
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 21d2f0c0713437a418c373ea293ebd33
+    layerID: 48
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Bar shadows
+    spriteName: Bar shadows
+    isGroup: 0
+    parentIndex: 37
+    spriteID: 76705db61b6d08645b5fae130fa65664
+    layerID: 50
+    mosaicPosition: {x: 4, y: 384}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: BGBlack
+    spriteName: BGBlack
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bb47fcf25e5c43c44a804faf16b5ee8e
+    layerID: 42
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: BGWhite
+    spriteName: BGWhite
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6b8f450b553d1ad45b7f0a5ad1c41526
+    layerID: 55
+    mosaicPosition: {x: 4, y: 194}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting:
+  - spriteId: 3d54a3da26154c14ba4258e13c3eec26
+    name: Backup
+    layerId: 57
+    flatten: 0
+    isGroup: 1
+    importLayer: 0
+  - spriteId: d6b6e96f64b85e5439d598010c25d5a8
+    name: Other
+    layerId: 60
+    flatten: 0
+    isGroup: 0
+    importLayer: 0
+  - spriteId: 9e2bcca1f02b98842be6dff81ac4edc5
+    name: Other_back
+    layerId: 59
+    flatten: 0
+    isGroup: 0
+    importLayer: 0
+  - spriteId: bb47fcf25e5c43c44a804faf16b5ee8e
+    name: BGBlack
+    layerId: 42
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: ee47c9e4c6d199248ba7abc895f68b12
+    name: 99%
+    layerId: 47
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 78764fbdbfafd614ea2adc63fdd1b5ef
+    name: 100%
+    layerId: 46
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 0d7f1bcd25e3d6944a93d3874e93647f
+    name: 10
+    layerId: 45
+    flatten: 0
+    isGroup: 0
+    importLayer: 1
+  - spriteId: 6beb105956db6ee48a4c6e5c92b0b6f9
+    name: Demo Elements
+    layerId: 43
+    flatten: 0
+    isGroup: 1
+    importLayer: 1
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
